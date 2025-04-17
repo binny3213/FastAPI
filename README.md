@@ -6,7 +6,7 @@ A complete **full-stack web application** . This project demonstrates a full aut
 
 ## 🌐 Live Demo
 
-👉 [Click here to visit the live app]([https://your-app-name.onrender.com](https://codingwithbinny-deployment.onrender.com))
+👉 [Click here to visit the live app](https://codingwithbinny-deployment.onrender.com)
 
 The project is deployed on **Render**, demonstrating full deployment workflow including:
 - Environment variable management
