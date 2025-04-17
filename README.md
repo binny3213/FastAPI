@@ -1,4 +1,4 @@
-# 📝 TodoApp – Full Stack Application with FastAPI & Bootstrap
+# 📝 TodoApp – Full Stack Application with FastAPI 
 
 A complete **full-stack web application** . This project demonstrates a full authentication system, a user-based todo management interface, and seamless integration between backend and frontend technologies.
 
